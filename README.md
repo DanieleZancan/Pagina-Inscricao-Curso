@@ -24,7 +24,7 @@ Navegue até o diretório do projeto:
 
 bash
 
-cd Pagina-Inscricao-Curso
+cd Pagina-Inscricao-Curso  
 Abra o arquivo index.html no seu navegador:
 
 bash
@@ -43,17 +43,17 @@ Pagina-Inscricao-Curso/
 │   └── arrow.png  
 └── README.md  
 
-Responsividade
+**Responsividade**
 O projeto foi desenvolvido com foco em responsividade, utilizando media queries para ajustar o layout em diferentes tamanhos de tela:
 
 1024px: Ajustes para tablets e telas menores.
 
 768px: Ajustes para dispositivos móveis.
 
-Contribuição
+**Contribuição**
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
+**Licença**
 Este projeto está licenciado sob a MIT License.
 
-Desenvolvido por Danny Zancan
+**Desenvolvido por Danny Zancan**
