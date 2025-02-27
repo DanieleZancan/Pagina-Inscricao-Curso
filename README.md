@@ -33,15 +33,15 @@ open index.html
 Estrutura do Projeto
 
 Pagina-Inscricao-Curso/
-→├── index.html 
-→├── css/ 
-→│   └── styles.css 
-→├── images/ 
-→│   ├── logo.png 
-→│   ├── header_bg.png 
-→│   ├── icon.png 
-→│   └── arrow.png 
-→└── README.md 
+├── index.html  
+├── css/  
+│   └── styles.css  
+├── images/  
+│   ├── logo.png  
+│   ├── header_bg.png  
+│   ├── icon.png  
+│   └── arrow.png  
+└── README.md  
 
 Responsividade
 O projeto foi desenvolvido com foco em responsividade, utilizando media queries para ajustar o layout em diferentes tamanhos de tela:
