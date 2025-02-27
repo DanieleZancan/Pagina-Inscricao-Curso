@@ -32,7 +32,7 @@ bash
 open index.html
 Estrutura do Projeto
 
-Pagina-Inscricao-Curso/
+Pagina-Inscricao-Curso/  
 ├── index.html  
 ├── css/  
 │   └── styles.css  
