@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma página web responsiva desenvolvida com HTML e CSS. A página inclui um formulário de contato, seções informativas e um design adaptável para diferentes tamanhos de tela, garantindo uma boa experiência do usuário em dispositivos móveis e desktops.
 
-<video src="images/tela-projeto.mp4"></video>
+<video src="images/tela-projeto.mp4" controls width="600"></video>
 
 ## Tecnologias Utilizadas
 
